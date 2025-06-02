@@ -1,5 +1,5 @@
 Tareas:
-#1. Terminar de leer el libro de programacion
+-[x]#1. Terminar de leer el libro de programacion
 #2. repasar para ingles.
 #3. Consultar fecha de cobro en el banco.
-#4. Estudiar programacion.
+-[x]#4. Estudiar programacion.
